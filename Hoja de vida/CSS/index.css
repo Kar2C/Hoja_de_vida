@@ -1,0 +1,38 @@
+.name{
+    margin-left: 75px; 
+    width: 182px;
+    height: 40px;
+    background: blanchedalmond;
+    border-bottom: 3px solid rgb(176, 152, 21);
+}
+.imagen{
+   margin-left: 94px; 
+}
+.educacion{
+    
+    border-bottom: 3px solid blue;
+    width: 135px;
+    height: 25px;
+    background: rgb(189, 218, 218);
+}
+.gustos{
+    border-bottom: 3px solid rgb(192, 11, 138);
+    width: 90px;
+    height: 25px;
+    background: rgb(204, 185, 201);
+
+}
+.experiencia{
+    
+    border-bottom: 3px solid rgb(0, 198, 40);
+    width: 155px;
+    height: 25px;
+    background: rgb(191, 221, 190);
+}
+.idiomas{
+    
+    border-bottom: 3px solid rgb(235, 13, 13);
+    width: 105px;
+    height: 25px;
+    background: rgb(200, 162, 159);
+}
